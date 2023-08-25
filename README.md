@@ -25,7 +25,7 @@ To set up the code in this repository, follow these steps:
 
 To use the code in this repository, you can follow these steps:
 
-1. Open the HTML files (`index.html`, `settings.html`, etc.) in a text editor of your choice.
+1. Open the HTML or CSS files in a text editor of your choice.
 2. Customize the content of each HTML file to match your website's specific needs. Update headings, paragraphs, links, and any other elements as necessary.
 3. If you want to modify the styling, open the `css/style.css` file in a text editor and make the necessary changes to the CSS rules.
 4. Place any images or visual assets you need in the `images/` directory.
