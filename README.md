@@ -1,3 +1,9 @@
+
+# PROJECT MOVED
+Project has been moved with other fireword related projects to <https://github.com/ThePhaseless/Interstellar>
+
+
+# Old Readme
 # Fireword Web
 
 This repository contains HTML and CSS files for [my website](https://fireword.xyz). It serves as a centralized location to access and manage my both public and private docker containers.
